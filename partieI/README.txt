@@ -1,6 +1,7 @@
-Membres de Binomes :
+Membres de Binomes : :
 
-Nom                 Prenom
+Nom                 Prénom
+
 NGUYEN              Ngoc Bao Trang
 MEDJNOUN            Chabha
                   
@@ -30,9 +31,24 @@ Description des Objectifs du Projet
       https://github.com/TrangNguyen9/ProjetHaskell/blob/master/partieI/Parse.hs
       
       ErrorHandler.hs qui  permet de gerer  les erreurs
+      https://github.com/chabhachabha/haskel/blob/master/partieI/ErrorHandler.hs     
       
       README.txt qui est un document permettant de decrire les objectifs du projet ainsi 
-      le contenu de chaque fichier
+      le contenu de chaque fichier:
+      https://github.com/chabhachabha/haskel/blob/master/partieI/README.txt
+
+Sources et lien utiles:
+
+https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/8_Parser
+
+
+Ce qui a été accompli:
+
+nous avons reussi a faire la premiére partie du projet .
+
+
+
+
         
 
 
