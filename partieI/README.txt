@@ -46,6 +46,13 @@ Ce qui a été accompli:
 
 nous avons reussi a faire la premiére partie du projet .
 
+CI JOINT LES DEUX LIEN DE NOS GIT:
+https://github.com/chabhachabha/haskel/tree/master/partieI
+https://github.com/TrangNguyen9/ProjetHaskell
+
+
+
+
 
 
 
