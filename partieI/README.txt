@@ -28,14 +28,14 @@ Description des Objectifs du Projet
                           parseExpression :: String -> Maybe Expression
       qui fait l’analyse syntaxique d’une chaîne de caractères et construit l’expression correspondant
       Ci joint son lien:
-      https://github.com/TrangNguyen9/ProjetHaskell/blob/master/partieI/Parse.hs
+      https://github.com/chabhachabha/haskel/tree/master/partieI/Parse.hs
       
       ErrorHandler.hs qui  permet de gerer  les erreurs
       https://github.com/chabhachabha/haskel/blob/master/partieI/ErrorHandler.hs     
       
       README.txt qui est un document permettant de decrire les objectifs du projet ainsi 
       le contenu de chaque fichier:
-      https://github.com/chabhachabha/haskel/blob/master/partieI/README.txt
+      https://github.com/chabhachabha/haskel/blob/maspartieIter/partieI/README.txt
 
 Sources et lien utiles:
 
